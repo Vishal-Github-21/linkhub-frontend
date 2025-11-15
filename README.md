@@ -1,13 +1,13 @@
 # LinkHub Mobile
 
-LinkHub Mobile is a React Native application that brings the full LinkHub experience to iOS and Android devices. It enables users to create, manage, and share personalized linktrees or personal pages on the go, offering seamless mobile access to all LinkHub features.
+LinkH Mobile is a React Native application that brings the full LinkHub experience to iOS and Android devices. It enables users to create, manage, and share personalized linktrees or personal pages on the go, offering seamless mobile access to all LinkHub features.
 
 - Backend API: Connected to LinkHub backend
 - Web version: [LinkHub](https://linkhub-frontend-deploy.vercel.app/)
 - Demo Hub view: [Hub view](https://linkhub-frontend-deploy.vercel.app/shortview/lvu3d80y)
 - Demo Page view: [Page view](https://linkhub-frontend-deploy.vercel.app/pageview/lvu3d80y)
 
-![LinkHub Mobile](../show_images/logo-white.png)
+![LinkHub Mobile](./show_images/logo-white.png)
 
 ## Table of Contents
 
