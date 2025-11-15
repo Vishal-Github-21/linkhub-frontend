@@ -70,7 +70,7 @@ LinkHub Mobile is the native mobile companion to the LinkHub web application. Bu
 ### LinkHub Views
 
 <div align="center">
-  <img src="../show_images/Screenshot%202024-05-22%20174752.png" alt="Short View Details" width="250"/>
+  <img src="./show_images/Screenshot%202024-05-22%20174731.png" alt="Short View" width="250"/>
 </div>
 
 <div align="center">
