@@ -50,57 +50,57 @@ LinkHub Mobile is the native mobile companion to the LinkHub web application. Bu
 
 - **Home Screen**: Welcome page with login/signup options
 
-  ![Home Page](../show_images/Screenshot%202024-05-22%20174334.png)
+  ![Home Page](./show_images/home.png)
 
 - **Sign Up Screen**: Create new account
 
-  ![SignUp Page](../show_images/Screenshot%202024-05-22%20174359.png)
+  ![SignUp Page](./show_images/signup.png)
 
 - **Sign In Screen**: Secure login with "Remember Me" option
 
-  ![SignIn Page](../show_images/Screenshot%202024-05-22%20174439.png)
+  ![SignIn Page](./show_images/signin.png)
 
 - **Forgot Password**: Password recovery via email
 
-  ![Forgot Password](../show_images/Screenshot%202024-05-22%20175304.png)
+  ![Forgot Password](./show_images/Screenshot%202024-05-22%20175304.png)
 
 - **Email**: Password reset email
 
-  ![Email](../show_images/Screenshot%202024-05-22%20175330.png)
+  ![Email](./show_images/Screenshot%202024-05-22%20175330.png)
 
 - **Reset Password**: Set new password
 
-  ![Reset Password](../show_images/Screenshot%202024-05-22%20175345.png)
+  ![Reset Password](./show_images/Screenshot%202024-05-22%20175345.png)
 
 ### Main Application Screens
 
 - **Dashboard**: View all your LinkHubs with publish status
 
-  ![Dashboard Page](../show_images/Screenshot%202024-05-22%20174454.png)
+  ![Dashboard Page](./show_images/dashboard.png)
 
-  ![Dashboard View](../show_images/Screenshot%202024-05-22%20174654.png)
+  ![Dashboard View](./show_images/Screenshot%202024-05-22%20174654.png)
 
 - **Profile**: View profile and manage account settings
 
-  ![Profile Page](../show_images/Screenshot%202024-05-22%20174524.png)
+  ![Profile Page](./show_images/profile.png)
 
 - **Create LinkHub**: Create new personalized link pages
 
-  ![Create Page](../show_images/Screenshot%202024-05-22%20174617.png)
+  ![Create Page](./show_images/create1.png)
 
-  ![Create Page Details](../show_images/Screenshot%202024-05-22%20174630.png)
+  ![Create Page Details](./show_images/create.png)
 
 - **Short View**: Hub view of your LinkHub
 
-  ![Short View](../show_images/Screenshot%202024-05-22%20174731.png)
+  ![Short View](./show_images/Screenshot%202024-05-22%20174731.png)
 
   ![Short View Details](../show_images/Screenshot%202024-05-22%20174752.png)
 
 - **Page View**: Full page view of your LinkHub
 
-  ![Page View](../show_images/Screenshot%202024-05-22%20174813.png)
+  ![Page View](./show_images/Screenshot%202024-05-22%20174813.png)
 
-  ![Page View Full](../show_images/Screenshot%202024-05-22%20175129.png)
+  ![Page View Full](./show_images/Screenshot%202024-05-22%20175129.png)
 
 ## Technologies Used
 
@@ -208,17 +208,6 @@ If everything is set up correctly, you should see LinkHub Mobile running in the 
 - Metro bundler runs on `http://localhost:8081`
 - Backend API should be running on configured URL (default: `http://10.0.2.2:4500` for Android)
 - Hot reloading is enabled by default
-
-## Step 3: Modify your app
-
-Now that you have successfully run the app, let's make changes!
-
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
-
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
 
 ### Modifying the App
 
