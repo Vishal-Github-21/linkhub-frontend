@@ -49,17 +49,58 @@ LinkHub Mobile is the native mobile companion to the LinkHub web application. Bu
 ### Authentication Screens
 
 - **Home Screen**: Welcome page with login/signup options
-- **Login Screen**: Secure login with "Remember Me" option
-- **Register Screen**: Create new account
+
+  ![Home Page](../show_images/Screenshot%202024-05-22%20174334.png)
+
+- **Sign Up Screen**: Create new account
+
+  ![SignUp Page](../show_images/Screenshot%202024-05-22%20174359.png)
+
+- **Sign In Screen**: Secure login with "Remember Me" option
+
+  ![SignIn Page](../show_images/Screenshot%202024-05-22%20174439.png)
+
 - **Forgot Password**: Password recovery via email
+
+  ![Forgot Password](../show_images/Screenshot%202024-05-22%20175304.png)
+
+- **Email**: Password reset email
+
+  ![Email](../show_images/Screenshot%202024-05-22%20175330.png)
+
+- **Reset Password**: Set new password
+
+  ![Reset Password](../show_images/Screenshot%202024-05-22%20175345.png)
 
 ### Main Application Screens
 
 - **Dashboard**: View all your LinkHubs with publish status
-- **Create LinkHub**: Create new personalized link pages
-- **Edit LinkHub**: Full editor with action menu (view, share, publish, update icon)
+
+  ![Dashboard Page](../show_images/Screenshot%202024-05-22%20174454.png)
+
+  ![Dashboard View](../show_images/Screenshot%202024-05-22%20174654.png)
+
 - **Profile**: View profile and manage account settings
-- **Full View**: Preview your LinkHub page
+
+  ![Profile Page](../show_images/Screenshot%202024-05-22%20174524.png)
+
+- **Create LinkHub**: Create new personalized link pages
+
+  ![Create Page](../show_images/Screenshot%202024-05-22%20174617.png)
+
+  ![Create Page Details](../show_images/Screenshot%202024-05-22%20174630.png)
+
+- **Short View**: Hub view of your LinkHub
+
+  ![Short View](../show_images/Screenshot%202024-05-22%20174731.png)
+
+  ![Short View Details](../show_images/Screenshot%202024-05-22%20174752.png)
+
+- **Page View**: Full page view of your LinkHub
+
+  ![Page View](../show_images/Screenshot%202024-05-22%20174813.png)
+
+  ![Page View Full](../show_images/Screenshot%202024-05-22%20175129.png)
 
 ## Technologies Used
 
