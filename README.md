@@ -1,6 +1,6 @@
 # LinkHub Mobile
 
-LinkH Mobile is a React Native application that brings the full LinkHub experience to iOS and Android devices. It enables users to create, manage, and share personalized linktrees or personal pages on the go, offering seamless mobile access to all LinkHub features.
+LinkHub Mobile is a React Native application that brings the full LinkHub experience to iOS and Android devices. It enables users to create, manage, and share personalized linktrees or personal pages on the go, offering seamless mobile access to all LinkHub features.
 
 - Backend API: Connected to LinkHub backend
 - Web version: [LinkHub](https://linkhub-frontend-deploy.vercel.app/)
@@ -48,59 +48,42 @@ LinkHub Mobile is the native mobile companion to the LinkHub web application. Bu
 
 ### Authentication Screens
 
-- **Home Screen**: Welcome page with login/signup options
+<div align="center">
+  <img src="./show_images/home.png" alt="Home Screen" width="250"/>
+  <img src="./show_images/signup.png" alt="Sign Up" width="250"/>
+  <img src="./show_images/signin.png" alt="Sign In" width="250"/>
+</div>
 
-  ![Home Page](./show_images/home.png)
-
-- **Sign Up Screen**: Create new account
-
-  ![SignUp Page](./show_images/signup.png)
-
-- **Sign In Screen**: Secure login with "Remember Me" option
-
-  ![SignIn Page](./show_images/signin.png)
-
-- **Forgot Password**: Password recovery via email
-
-  ![Forgot Password](./show_images/Screenshot%202024-05-22%20175304.png)
-
-- **Email**: Password reset email
-
-  ![Email](./show_images/Screenshot%202024-05-22%20175330.png)
-
-- **Reset Password**: Set new password
-
-  ![Reset Password](./show_images/Screenshot%202024-05-22%20175345.png)
+<div align="center">
+  <img src="./show_images/Screenshot%202024-05-22%20175304.png" alt="Forgot Password" width="250"/>
+  <img src="./show_images/Screenshot%202024-05-22%20175330.png" alt="Password Reset Email" width="250"/>
+  <img src="./show_images/Screenshot%202024-05-22%20175345.png" alt="Reset Password" width="250"/>
+</div>
 
 ### Main Application Screens
 
-- **Dashboard**: View all your LinkHubs with publish status
+<div align="center">
+  <img src="./show_images/dashboard.png" alt="Dashboard" width="250"/>
+  <img src="./show_images/Screenshot%202024-05-22%20174654.png" alt="Dashboard View" width="250"/>
+  <img src="./show_images/profile.png" alt="Profile" width="250"/>
+</div>
 
-  ![Dashboard Page](./show_images/dashboard.png)
+<div align="center">
+  <img src="./show_images/create1.png" alt="Create LinkHub" width="250"/>
+  <img src="./show_images/create.png" alt="Create Details" width="250"/>
+</div>
 
-  ![Dashboard View](./show_images/Screenshot%202024-05-22%20174654.png)
+### LinkHub Views
 
-- **Profile**: View profile and manage account settings
+<div align="center">
+  <img src="./show_images/Screenshot%202024-05-22%20174731.png" alt="Short View" width="250"/>
+  <img src="../show_images/Screenshot%202024-05-22%20174752.png" alt="Short View Details" width="250"/>
+</div>
 
-  ![Profile Page](./show_images/profile.png)
-
-- **Create LinkHub**: Create new personalized link pages
-
-  ![Create Page](./show_images/create1.png)
-
-  ![Create Page Details](./show_images/create.png)
-
-- **Short View**: Hub view of your LinkHub
-
-  ![Short View](./show_images/Screenshot%202024-05-22%20174731.png)
-
-  ![Short View Details](../show_images/Screenshot%202024-05-22%20174752.png)
-
-- **Page View**: Full page view of your LinkHub
-
-  ![Page View](./show_images/Screenshot%202024-05-22%20174813.png)
-
-  ![Page View Full](./show_images/Screenshot%202024-05-22%20175129.png)
+<div align="center">
+  <img src="./show_images/Screenshot%202024-05-22%20174813.png" alt="Page View" width="250"/>
+  <img src="./show_images/Screenshot%202024-05-22%20175129.png" alt="Page View Full" width="250"/>
+</div>
 
 ## Technologies Used
 
