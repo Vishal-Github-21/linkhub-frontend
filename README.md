@@ -54,17 +54,11 @@ LinkHub Mobile is the native mobile companion to the LinkHub web application. Bu
   <img src="./show_images/signin.png" alt="Sign In" width="250"/>
 </div>
 
-<div align="center">
-  <img src="./show_images/Screenshot%202024-05-22%20175304.png" alt="Forgot Password" width="250"/>
-  <img src="./show_images/Screenshot%202024-05-22%20175330.png" alt="Password Reset Email" width="250"/>
-  <img src="./show_images/Screenshot%202024-05-22%20175345.png" alt="Reset Password" width="250"/>
-</div>
 
 ### Main Application Screens
 
 <div align="center">
   <img src="./show_images/dashboard.png" alt="Dashboard" width="250"/>
-  <img src="./show_images/Screenshot%202024-05-22%20174654.png" alt="Dashboard View" width="250"/>
   <img src="./show_images/profile.png" alt="Profile" width="250"/>
 </div>
 
@@ -83,6 +77,13 @@ LinkHub Mobile is the native mobile companion to the LinkHub web application. Bu
 <div align="center">
   <img src="./show_images/Screenshot%202024-05-22%20174813.png" alt="Page View" width="250"/>
   <img src="./show_images/Screenshot%202024-05-22%20175129.png" alt="Page View Full" width="250"/>
+</div>
+
+## UTIL PAGES
+<div align="center">
+  <img src="./show_images/Screenshot%202024-05-22%20175304.png" alt="Forgot Password" width="250"/>
+  <img src="./show_images/Screenshot%202024-05-22%20175330.png" alt="Password Reset Email" width="250"/>
+  <img src="./show_images/Screenshot%202024-05-22%20175345.png" alt="Reset Password" width="250"/>
 </div>
 
 ## Technologies Used
